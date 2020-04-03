@@ -186,3 +186,4 @@ Xcode/
 /.flatpak-builder/
 /repo/
 /build-dir/
+/.metadata/
